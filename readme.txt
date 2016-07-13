@@ -4,6 +4,7 @@ Whether you are considering fuel efficiency or part efficiency (fewest number of
 
 Fuel Efficiency Scores:
 
+(seanth) Crick in My Neck: 55,997.77
 (Ezriilc) Orca 3.4: 54,098.84
 (The_Rocketeer) Soviet R: 46,966.95
 (SpannerMonkey(smce): Challenge Cat: 26,400 (estimate)
@@ -14,16 +15,18 @@ Part Efficiency Scores:
 
 (Ezriilc) Orca 3.4: 297.89
 (The_Rocketeer) Soviet R: 149.9
+(seanth) Crick in my Neck: 118.08
 (SpannerMonkey(smce)) Challenge Cat: 56.36
 (seanth) Watson Your Mind: 19.11
  
 
 Just for funzies--Momentum per L/s scores ([mass*velocity]/fuel usage per second):
 
-(The_Rocketeer) Soviet R: 7,746.6
-(Ezriilc) Orca 3.4: 5,906.37
-(SpannerMonkey(smce)) Challenge Cat: 2,479.07
-(seanth) Watson Your Mind: 1,777.44
+(The_Rocketeer) Soviet R:                       7,746.6
+(seanth) Crick in my Neck:                      7,039.45
+(Ezriilc) Orca 3.4:                             5,906.37
+(SpannerMonkey(smce)) Challenge Cat:            2,479.07
+(seanth) Watson Your Mind:                      1,777.44
  
 
 Momentum Part Efficiency Scoring:
